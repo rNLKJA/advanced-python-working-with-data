@@ -1,12 +1,3 @@
-> **Note — personal fork.** This is [@rNLKJA](https://github.com/rNLKJA)'s fork of the
-> [LinkedIn Learning](https://github.com/LinkedInLearning/advanced-python-working-with-data-4312001)
-> exercise files, kept for personal study and reference. All course content, code, and
-> branding belong to **LinkedIn Corporation / Joe Marini** and are used here under the
-> LinkedIn Learning Exercise File License (see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE)).
-> The original course README is preserved below, unchanged.
-
----
-
 # Advanced Python: Working With Data
 This is the repository for the LinkedIn Learning course Advanced Python: Working With Data. The full course is available from [LinkedIn Learning][lil-course-url].
 
